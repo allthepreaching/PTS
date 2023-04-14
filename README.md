@@ -1,2 +1,2 @@
-# PTS
-PastorThompsonSermons.com
+# pastorandersonsermons
+PastorAndersonSermons.com
